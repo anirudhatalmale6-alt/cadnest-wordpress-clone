@@ -1,0 +1,7 @@
+mirror/
+rendered/
+shots/
+server.log
+capture.log
+*.zip
+__pycache__/

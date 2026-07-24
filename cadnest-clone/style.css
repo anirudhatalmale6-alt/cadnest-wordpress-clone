@@ -1,0 +1,15 @@
+/*
+Theme Name: CADnest Clone
+Theme URI: https://www.cadnestdesign.com/
+Author: Anirudha Talmale
+Description: Pixel-perfect WordPress replica of cadnestdesign.com. Each page is served from a captured, fully self-contained HTML snapshot (all CSS, fonts and images bundled in /assets). Includes a one-click installer that recreates all original pages with their exact slugs for full URL parity.
+Version: 1.0.0
+Requires at least: 5.5
+Requires PHP: 7.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cadnest-clone
+*/
+
+/* Theme chrome only. The actual page appearance comes 100% from the
+   captured snapshots in /snapshots, so no styling is needed here. */
