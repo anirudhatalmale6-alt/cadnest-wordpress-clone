@@ -5,3 +5,11 @@ server.log
 capture.log
 *.zip
 __pycache__/
+
+# rebuild tooling / temp
+snapshots-src/
+build_theme.py
+router2.php
+pw_verify.py
+pw_compare.py
+shots2/
